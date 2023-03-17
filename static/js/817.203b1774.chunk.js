@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[817],{817:function(e,r,t){t.r(r);var a=t(689),u=t(184);r.default=function(){var e=(0,a.UO)().dogId;return(0,u.jsxs)("div",{children:["Subbreeds: ",e]})}}}]);
+//# sourceMappingURL=817.203b1774.chunk.js.map
